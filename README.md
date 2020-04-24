@@ -1,4 +1,6 @@
-##Title of the project ## : ## Project Description ##
+##Title of the project ## : # Likhesh
+
+## Project Description ##
 Create a Bash file foe the given description and host it on Git
 
 ## Date and Time ##
