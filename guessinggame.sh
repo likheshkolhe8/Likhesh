@@ -13,7 +13,7 @@ while 1
     then
     echo "greater"
     else
-    echo "answer is correct"
+    echo "Congratulations !!!, YOur answer is correct"
     break;
     fi
 done
