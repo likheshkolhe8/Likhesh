@@ -1,5 +1,4 @@
-##Title of the project ## : 
-##Likhesh##
+# Likhesh 
 
 ## Project Description ##
 Create a Bash file foe the given description and host it on Git
