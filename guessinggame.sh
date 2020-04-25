@@ -2,11 +2,11 @@
 function hi
 {
 abc=$(ls -l | grep "^-"| wc -l)
-while 1
+while true
   do
     echo "enter your guess"
     read answer
-    id [$answer -lt $abc]
+    if [$answer -lt $abc]
     then
     echo "less"
     elif [$answer -gt $abc]
@@ -18,7 +18,7 @@ while 1
     fi
 done
 }
-echo "recent directory
+echo "recent directory"
 hi
 
 
